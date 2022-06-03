@@ -8,7 +8,7 @@ Focused on 'react-router-dom' library for a dashboard template application.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 In the project directory:
 
-### `npx create-react-app sample-okta-react-app-usecontext`
+### `npx create-react-app template-react-router-dom`
 
 ## useContext Hook
 - React Context is a way to manage state globally to share state/context between deeply nested components more easily.
