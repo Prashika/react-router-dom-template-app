@@ -15,7 +15,7 @@ In the project directory:
 - Here useConext is used to share authentication context between components.
 
 ## Source Code:
-### Please refer: [https://github.com/Prashika/sample-okta-react-app-usecontext.git](https://github.com/Prashika/sample-okta-react-app-usecontext.git)
+### Please refer: [https://github.com/Prashika/react-router-dom-template-app.git](https://github.com/Prashika/react-router-dom-template-app.git)
 
 ## Available Scripts
 
