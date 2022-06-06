@@ -1,5 +1,5 @@
 # react-router-dom-template-app
-Focused on 'react-router-dom' library for a dashboard template application.
+Focused on 'react-router-dom' library for a dashboard template application. It helps us to implement dynamic routing in a web app.
 
 # Implementation:
 
